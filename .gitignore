@@ -1,0 +1,4 @@
+__pycache__/
+campaign/
+selftest/
+reduced.cu
