@@ -56,4 +56,4 @@ python3 gen.py 42                                        # print one generated p
 
 Work in progress. The generator, campaign runner and reducer are written, but no campaign has been run on
 a GPU yet. The same design runs end to end, without a GPU, in
-[ptxsim](https://github.com/) (LLVM NVPTX backend + a PTX interpreter), where it tested 47k kernels.
+[ptxsim](https://github.com/Divabhattacharya/ptxsim) (LLVM NVPTX backend + a PTX interpreter), where it tested 47k kernels.
